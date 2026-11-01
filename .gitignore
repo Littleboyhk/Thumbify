@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Telegram Session files (CRITICAL SECURITY)
+*.session*
+
+# Database
+*.db
+*.sqlite3
+
+# Downloads and Temporary Files
+downloads/
+thumbnails/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
